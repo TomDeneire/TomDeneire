@@ -2,7 +2,7 @@
 
 [![Tom Deneire's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomDeneire&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/TomDeneire)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomDeneire&hide=html)](https://github.com/TomDeneire)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomDeneire&hide=html&theme=gruvbox&hide_progress=true)](https://github.com/TomDeneire)
 
 <!--
 **TomDeneire/TomDeneire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
